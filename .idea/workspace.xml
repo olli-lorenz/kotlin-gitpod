@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58e58e6a-840f-4778-a567-c9d18a0b32d0" name="Changes" comment="Initial commit">
+    <list default="true" id="58e58e6a-840f-4778-a567-c9d18a0b32d0" name="Changes" comment="Another commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +72,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="JAR Application.kotlin-gitpod-1.0-SNAPSHOT.jar">
+  <component name="RunManager" selected="Kotlin.MainKt">
     <configuration name="kotlin-gitpod [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -121,9 +121,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="JAR Application.kotlin-gitpod-1.0-SNAPSHOT.jar" />
         <item itemvalue="Gradle.kotlin-gitpod [jar]" />
-        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +138,8 @@
       <workItem from="1665067835960" duration="146000" />
       <workItem from="1665068044048" duration="920000" />
       <workItem from="1665070566960" duration="431000" />
+      <workItem from="1665139054693" duration="694000" />
+      <workItem from="1665391896114" duration="630000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1665068562829</created>
@@ -146,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665068562829</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Another commit">
+      <created>1665139147460</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665139147460</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +174,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Another commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Another commit" />
   </component>
 </project>
